@@ -2,7 +2,7 @@ import discord
 import discord.guild
 from discord.ext import commands
 
-TOKEN = "OTc1MDczODk1NDgyNzk4MTgx.G0hGtF.8zWFwXLgmrnNAlHzLy0jW3jx9endVMWlz7VAK8"#"yourTokenHere"
+TOKEN = #"yourTokenHere"
 
 client = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
